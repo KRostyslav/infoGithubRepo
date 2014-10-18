@@ -1,4 +1,4 @@
-package info.rostyslav;
+package info.rostyslav.infoGithub;
 
 import java.io.IOException;
 

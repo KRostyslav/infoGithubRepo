@@ -1,4 +1,4 @@
-package info.rostyslav;
+package info.rostyslav.infoGithub;
 
 public interface dataInterface {
 	public static String USER = "KRostyslav";
